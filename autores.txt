@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 pilarcostab, pilarcosta123@gmail.com
 AgostinaLaffitte, agoslaffitte17@gmail.com
 
+=======
+Agostina Laffitte - agoslaffitte17@gmail.com
+>>>>>>> 60e637fa49e69df3d56eaa13b6f356e5befaba58
